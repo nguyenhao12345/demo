@@ -1,0 +1,41 @@
+.background{
+  background: rgb(226, 221, 221);
+   border-radius: 4%;
+}
+.mr-r{
+  float: right;
+}
+.backround-login{
+  background: rgb(111, 167, 148);
+  height: 637px;
+}
+.text-center{
+  text-align: center;
+}
+.line{
+  width: 35%;
+}
+#profile-img{
+    border-radius: 50%;
+    width: 70px;
+    background-color: aquamarine;
+}
+.icon-center{
+  text-align: center;
+  margin-top: -35px;
+}
+.mr-top{
+  margin-top: 80px;
+}
+.name{
+    text-align: center;
+    color: rgba(102, 102, 102, 0.918);
+}
+.color-icon-user{
+  background-color: white;
+  border-right-style:hidden !important;
+}
+.border-style{
+  border-left-style:hidden !important;
+  background-color: white;
+}
